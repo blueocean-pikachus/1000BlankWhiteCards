@@ -56,4 +56,10 @@
 ![Alt Text](https://media.giphy.com/media/Hw8SPDP0dTT2jZsECa/giphy.gif)
 
 #### Contact the Team: 
-- [Team](http://google.com)
+- [Alvina Kwon](https://github.com/minjina90)
+- [Jake Daurham](https://github.com/daurham)
+- [Jini Cha](https://github.com/jinicha)
+- [Karli Thomas](https://github.com/karli-thomas)
+- [Kevin Infante](https://github.com/Kevinfante)
+- [Trevor Leung](https://github.com/TofuStore)
+- [Waylon Marble](https://github.com/WaylonMarble)
